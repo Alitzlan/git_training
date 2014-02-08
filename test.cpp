@@ -5,6 +5,6 @@ int main()
 {
 	cout << "Hello World!" << endl;
 	cout << "This is a git test program" << endl;
-	cout << "First" << endl;
+	cout << "Second" << endl;
 	return 0;
 }
